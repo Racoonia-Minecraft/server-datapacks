@@ -1,0 +1,1 @@
+$data modify storage racoonia:devtools display.text.out.text set value '{"text":"$(text)","font":"$(font)","color":"$(color)","bold":$(bold),"italic":$(italic),"underlined":$(underlined),"strikethrough":$(strikethrough),"obfuscated":$(obfuscated)}'
