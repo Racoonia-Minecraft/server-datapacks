@@ -1,8 +1,0 @@
-{
-    "values": [
-        "_racoonia:load",
-        "_devtools:load",
-        "_lobbymanager:load",
-        "_hogrider:load"
-    ]
-}
