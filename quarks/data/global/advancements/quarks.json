@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Quarks",
+        "description": "Quarks.",
+        "icon": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:racoonia",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
