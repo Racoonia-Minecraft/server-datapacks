@@ -4,7 +4,7 @@
         "description": "Resurrector",
         "supported_formats": {
             "min_inclusive": 18,
-            "max_inclusive": 18
+            "max_inclusive": 26
         }
     }
 }
