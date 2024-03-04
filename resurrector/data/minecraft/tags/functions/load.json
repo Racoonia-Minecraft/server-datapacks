@@ -1,5 +1,5 @@
 {
     "values": [
-        "_resurrector:load"
+        "_resurrector:dependencies/registration"
     ]
 }

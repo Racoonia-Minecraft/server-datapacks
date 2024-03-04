@@ -10,4 +10,4 @@ function _resurrector:main
 
 # Registration
 data modify storage racoonia:datapacks racooniacore set value 1
-schedule function _resurrector:dep_check 1
+schedule function _resurrector:dep_check 1t

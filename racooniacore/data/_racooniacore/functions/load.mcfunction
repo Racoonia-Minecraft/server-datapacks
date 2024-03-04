@@ -7,4 +7,4 @@ function _racooniacore:math/constants
 
 # Registration
 data modify storage racoonia:datapacks racooniacore set value 1
-schedule function _racooniacore:dep_check 1
+schedule function _racooniacore:dep_check 1t
