@@ -5,6 +5,16 @@
         "supported_formats": {
             "min_inclusive": 15,
             "max_inclusive": 26
+        },
+        "overlays": {
+            "entries": [
+                {
+                    "formats": {
+                        "min_inclusive": 26
+                    },
+                    "directory": "trifles-d26"
+                }
+            ]
         }
     }
 }
