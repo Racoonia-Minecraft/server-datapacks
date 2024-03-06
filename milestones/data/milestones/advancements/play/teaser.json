@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:4000236}"
+            "nbt": "{CustomModelData:4000236,opendata:{no_override:1b}}"
         },
         "title": "Play Time Teaser",
         "description": "You have played",

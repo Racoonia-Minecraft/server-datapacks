@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "minecraft:potion",
-      "nbt": "{CustomModelData:4000108,CustomPotionColor:16777215}"
+      "nbt": "{CustomModelData:4000108,opendata:{no_override:1b},CustomPotionColor:16777215}"
     },
     "title": "Espresso yourself",
     "description": "Gotta go fast!",

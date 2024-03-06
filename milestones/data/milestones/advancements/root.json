@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "minecraft:warped_fungus_on_a_stick",
-      "nbt": "{CustomModelData:4000200}"
+      "nbt": "{CustomModelData:4000200,opendata:{no_override:1b}}"
     },
     "title": "Milestones",
     "description": "Milestones for everything",

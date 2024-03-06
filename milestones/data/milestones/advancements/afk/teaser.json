@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:4000235}"
+            "nbt": "{CustomModelData:4000235,opendata:{no_override:1b}}"
         },
         "title": "Be right back",
         "description": "You have been afk",

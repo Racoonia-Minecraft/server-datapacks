@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:4000235}"
+            "nbt": "{CustomModelData:4000235,opendata:{no_override:1b}}"
         },
         "title": "Afk Time Tier3",
         "description": "I'll be back in 5 minuts, I swear",
