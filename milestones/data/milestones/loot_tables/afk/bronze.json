@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_nbt",
+          "tag": "{display:{Name:'{\"text\":\"Bronze Afk Time Trophy\",\"color\":\"#C15A36\",\"italic\":false}',Lore:['{\"text\":\"A trophy for being afk for 5 hours.\",\"color\":\"white\",\"italic\":false}','{\"text\":\" \"}','{\"text\":\"Afk Time Tier1:\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"You have been afk for a few hours.\",\"color\":\"gray\",\"italic\":false}']},HideFlags:4,Unbreakable:1b,CustomModelData:4000231}"
+        }
+      ]
+    }
+  ]
+}

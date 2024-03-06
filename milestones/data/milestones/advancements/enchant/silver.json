@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bookshelf"
+        },
+        "title": "Enchantment Collector",
+        "description": "Mix and match your enchantments",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:enchant/bronze",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/silver",
+        "loot": [
+            "milestones:enchant/silver"
+        ]
+    }
+}

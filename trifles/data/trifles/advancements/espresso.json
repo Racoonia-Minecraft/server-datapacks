@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:potion",
+      "nbt": "{CustomModelData:4000108,CustomPotionColor:16777215}"
+    },
+    "title": "Espresso yourself",
+    "description": "Gotta go fast!",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "trifles:cup",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{trifles:{type:\"espresso\"}}"
+        }
+      }
+    }
+  }
+}

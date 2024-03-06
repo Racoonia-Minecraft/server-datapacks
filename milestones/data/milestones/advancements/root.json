@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:warped_fungus_on_a_stick",
+      "nbt": "{CustomModelData:4000200}"
+    },
+    "title": "Milestones",
+    "description": "Milestones for everything",
+    "background": "minecraft:textures/block/yellow_terracotta.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

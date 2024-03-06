@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:deepslate"
+        },
+        "title": "Dwarf",
+        "description": "Diggy Diggy Hole!!!",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:mine/bronze",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/silver",
+        "loot": [
+            "milestones:mine/silver"
+        ]
+    }
+}

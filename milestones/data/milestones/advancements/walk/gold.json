@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:compass"
+        },
+        "title": "Tour Guide",
+        "description": "Knowing your way around",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:walk/silver",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/gold",
+        "loot": [
+            "milestones:walk/gold"
+        ]
+    }
+}

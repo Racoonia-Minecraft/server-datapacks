@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:crossbow"
+        },
+        "title": "Frenzy",
+        "description": "You are on a rampage",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:kill/bronze",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/silver",
+        "loot": [
+            "milestones:kill/silver"
+        ]
+    }
+}

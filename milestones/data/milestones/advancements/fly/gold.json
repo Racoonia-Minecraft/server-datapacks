@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:elytra"
+        },
+        "title": "Icarus",
+        "description": "Don't fly to close to the sun",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:fly/silver",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/gold",
+        "loot": [
+            "milestones:fly/gold"
+        ]
+    }
+}
