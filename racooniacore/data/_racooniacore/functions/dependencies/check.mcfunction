@@ -8,4 +8,4 @@ execute unless score #provided racoonia.dependencies matches 1.. run tellraw @a 
 
 scoreboard objectives remove racoonia.dependencies
 
-function _devtools:load
+function _racooniacore:load
