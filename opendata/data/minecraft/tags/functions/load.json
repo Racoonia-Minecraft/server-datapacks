@@ -1,5 +1,5 @@
 {
     "values": [
-        "_opendata:load"
+        "_opendata:dependencies/registration"
     ]
 }

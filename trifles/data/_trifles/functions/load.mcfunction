@@ -16,6 +16,6 @@ scoreboard objectives add trifles.random dummy
 # scoreboard for enabeling trifles crafting
 scoreboard objectives add trifles.enabled dummy
 
-# Registration
-data merge storage racoonia:datapacks {trifles:{version:"1.2",version_number:4}}
-schedule function _trifles:dep_check 1t
+function _trifles:main
+function _trifles:pocketcat/check
+function _trifles:click/detection
