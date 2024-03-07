@@ -1,5 +1,5 @@
 {
     "values": [
-        "_quarks:load"
+        "_quarks:dependencies/registration"
     ]
 }
