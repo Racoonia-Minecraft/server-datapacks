@@ -4,7 +4,7 @@ forceload remove -30000000 1600
 forceload add -30000000 1600
 function phi.core:internal/create_burrow
 # Ensure helper exists
-function phi.core:create_helper_entity
+function phi.core:internal/create_helper_entity
 function #phi.core:overworld_load
 # Nether
 execute in the_nether run forceload remove -30000000 1600
