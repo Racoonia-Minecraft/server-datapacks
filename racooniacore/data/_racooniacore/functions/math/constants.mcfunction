@@ -1,5 +1,6 @@
 # Math constants
 #declare entity #2
+#declare entity #16
 #declare entity #20
 #declare entity #24
 #declare entity #60
@@ -13,6 +14,7 @@
 #declare entity #1728000
 
 scoreboard players set #2 racoonia.math 2
+scoreboard players set #16 racoonia.math 16
 scoreboard players set #20 racoonia.math 20
 scoreboard players set #24 racoonia.math 24
 scoreboard players set #60 racoonia.math 60
