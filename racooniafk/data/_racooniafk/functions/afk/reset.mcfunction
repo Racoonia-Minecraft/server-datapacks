@@ -1,0 +1,16 @@
+scoreboard players set @a racooniafk.climb 0
+scoreboard players set @a racooniafk.crouch 0
+scoreboard players set @a racooniafk.fly 0
+scoreboard players set @a racooniafk.sprint 0
+scoreboard players set @a racooniafk.swim 0
+scoreboard players set @a racooniafk.walk 0
+scoreboard players set @a racooniafk.walk_on_water 0
+scoreboard players set @a racooniafk.walk_under_water 0
+scoreboard players set @a racooniafk.boat 0
+scoreboard players set @a racooniafk.elytra 0
+scoreboard players set @a racooniafk.horse 0
+scoreboard players set @a racooniafk.minecart 0
+scoreboard players set @a racooniafk.pig 0
+scoreboard players set @a racooniafk.strider 0
+scoreboard players set @a racooniafk.jump 0
+scoreboard players set @a racooniafk.leave 0

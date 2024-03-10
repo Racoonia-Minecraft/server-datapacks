@@ -1,5 +1,5 @@
 # AFK Milestone
-scoreboard players add @a[tag=racooniaserver.afk] milestones.afkTime 5
+scoreboard players add @a[tag=racooniafk.afk] milestones.afkTime 5
 execute as @a run function _milestones:afk_time
 advancement grant @a[scores={milestones.afk=3000..}] until milestones:afk/gold
 advancement grant @a[scores={milestones.afk=900..}] until milestones:afk/silver
