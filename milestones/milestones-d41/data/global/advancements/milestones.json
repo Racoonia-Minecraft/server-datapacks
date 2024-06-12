@@ -1,9 +1,9 @@
 {
     "display": {
-        "title": "Racoonia Server Tools",
-        "description": "Different usefull tools for servers",
+        "title": "Milestones",
+        "description": "Cool Milestones",
         "icon": {
-            "item": "minecraft:iron_axe"
+            "id": "minecraft:beacon"
         },
         "announce_to_chat": false,
         "show_toast": false

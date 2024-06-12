@@ -4,7 +4,18 @@
         "description": "Devtools",
         "supported_formats": {
             "min_inclusive": 18,
-            "max_inclusive": 26
+            "max_inclusive": 41
         }
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": {
+                    "min_inclusive": 27,
+                    "max_inclusive": 41
+                },
+                "directory": "devtools-d41"
+            }
+        ]
     }
 }

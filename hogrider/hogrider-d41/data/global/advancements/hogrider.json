@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Hogrider",
+        "description": "Hogrider.",
+        "icon": {
+            "id": "minecraft:carrot_on_a_stick"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:racoonia",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Resurrector",
+        "description": "Resurrector.",
+        "icon": {
+            "id": "minecraft:totem_of_undying"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:racoonia",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

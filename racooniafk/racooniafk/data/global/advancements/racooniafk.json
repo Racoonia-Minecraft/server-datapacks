@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "RacooniAFK",
+        "description": "Yet another AFK detection system",
+        "icon": {
+            "id": "minecraft:iron_axe"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:racoonia",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
