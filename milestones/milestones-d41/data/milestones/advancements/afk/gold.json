@@ -1,0 +1,33 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:warped_fungus_on_a_stick",
+            "components": {
+                "minecraft:custom_model_data": 4000235,
+                "minecraft:custom_data": {
+                    "opendata": {
+                        "no_override": 1
+                    }
+                }
+            }
+        },
+        "title": "Afk Time Tier3",
+        "description": "I'll be back in 5 minuts, I swear",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:afk/silver",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/gold",
+        "loot": [
+            "milestones:afk/gold"
+        ]
+    }
+}

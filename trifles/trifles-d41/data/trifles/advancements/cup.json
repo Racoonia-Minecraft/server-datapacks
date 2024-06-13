@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:glass_bottle",
+      "components": {
+        "minecraft:custom_model_data": 4000104,
+        "minecraft:custom_data": {
+          "opendata": {
+            "no_override": 1
+          }
+        }
+      }
+    },
+    "title": "Now fill it up",
+    "description": "Half empty or half full? Just Empty!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "racoonia:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:glass_bottle"
+            ],
+            "nbt": "{trifles:{type:\"cup\"}}"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:iron_chestplate"
+        },
+        "title": "Armorer",
+        "description": "Get yourself some protection",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:die/teaser",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/bronze",
+        "loot": [
+            "milestones:die/bronze"
+        ]
+    }
+}

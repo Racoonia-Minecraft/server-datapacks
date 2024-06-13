@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"Silver Walking Trophy\",\"color\":\"#D8D8D8\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"A trophy for walking 150,000 blocks.\",\"color\":\"white\",\"italic\":false}",
+                  "{\"text\":\" \"}",
+                  "{\"text\":\"Barrelman:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\"No end in sight\",\"color\":\"gray\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 4000217,
+                "minecraft:custom_data": {
+                  "opendata": {
+                    "no_override": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

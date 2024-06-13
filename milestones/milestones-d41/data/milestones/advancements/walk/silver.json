@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:spyglass"
+        },
+        "title": "Barrelman",
+        "description": "No end in sight",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:walk/bronze",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/silver",
+        "loot": [
+            "milestones:walk/silver"
+        ]
+    }
+}

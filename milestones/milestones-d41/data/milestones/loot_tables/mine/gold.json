@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"Golden Mining Trophy\",\"color\":\"#FDF55F\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"A trophy for mining 50,000 stone blocks.\",\"color\":\"white\",\"italic\":false}",
+                  "{\"text\":\" \"}",
+                  "{\"text\":\"Rock Bottom:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\"Solid!\",\"color\":\"gray\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 4000203,
+                "minecraft:custom_data": {
+                  "opendata": {
+                    "no_override": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

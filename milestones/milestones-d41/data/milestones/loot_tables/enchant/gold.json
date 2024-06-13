@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"Golden Enchanting Trophy\",\"color\":\"#FDF55F\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"A trophy for enchanting 200 times.\",\"color\":\"white\",\"italic\":false}",
+                  "{\"text\":\" \"}",
+                  "{\"text\":\"Archmage:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\"Next step: Enchanting people\",\"color\":\"gray\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 4000227,
+                "minecraft:custom_data": {
+                  "opendata": {
+                    "no_override": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

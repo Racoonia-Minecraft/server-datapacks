@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"Golden Active Time Trophy\",\"color\":\"#FDF55F\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"A trophy for playing 96 hours.\",\"color\":\"white\",\"italic\":false}",
+                  "{\"text\":\" \"}",
+                  "{\"text\":\"Do you have a life?:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\"Please log off...\",\"color\":\"gray\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 4000230,
+                "minecraft:custom_data": {
+                  "opendata": {
+                    "no_override": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

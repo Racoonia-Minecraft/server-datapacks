@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:recovery_compass"
+        },
+        "title": "You have 5 minuts",
+        "description": "Go find your items!",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:die/silver",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/gold",
+        "loot": [
+            "milestones:die/gold"
+        ]
+    }
+}

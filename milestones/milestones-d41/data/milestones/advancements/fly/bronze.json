@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:phantom_membrane"
+        },
+        "title": "Pilot",
+        "description": "Fly with the Phantoms",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:fly/teaser",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/bronze",
+        "loot": [
+            "milestones:fly/bronze"
+        ]
+    }
+}

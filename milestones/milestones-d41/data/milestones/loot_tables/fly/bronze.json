@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"Bronze Flying Trophy\",\"color\":\"#C15A36\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"A trophy for flying 50,000 blocks.\",\"color\":\"white\",\"italic\":false}",
+                  "{\"text\":\" \"}","{\"text\":\"Pilot:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\"Fly with the Phantoms\",\"color\":\"gray\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 4000213,
+                "minecraft:custom_data": {
+                  "opendata": {
+                    "no_override": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

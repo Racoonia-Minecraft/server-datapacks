@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"Golden Flying Trophy\",\"color\":\"#FDF55F\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"A trophy for flying 750,000 blocks.\",\"color\":\"white\",\"italic\":false}",
+                  "{\"text\":\" \"}","{\"text\":\"Icarus:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\"Don't fly to close to the sun\",\"color\":\"gray\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 4000215,
+                "minecraft:custom_data": {
+                  "opendata": {
+                    "no_override": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

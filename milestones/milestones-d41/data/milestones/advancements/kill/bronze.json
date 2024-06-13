@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:iron_axe"
+        },
+        "title": "Hunter",
+        "description": "Be the hunter, not he hunted",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "milestones:kill/teaser",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "_milestones:tier/bronze",
+        "loot": [
+            "milestones:kill/bronze"
+        ]
+    }
+}

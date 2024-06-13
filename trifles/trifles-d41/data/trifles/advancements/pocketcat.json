@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:warped_fungus_on_a_stick",
+      "components": {
+        "minecraft:custom_model_data": 4000101,
+        "minecraft:custom_data": {
+          "opendata": {
+            "no_override": 1
+          }
+        }
+      }
+    },
+    "title": "Fluffy Companion",
+    "description": "Craft a cat in a bag",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "trifles:interaction_block",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:warped_fungus_on_a_stick"
+            ],
+            "nbt": "{trifles:{type:\"pocketcat\"}}"
+          }
+        ]
+      }
+    }
+  }
+}
