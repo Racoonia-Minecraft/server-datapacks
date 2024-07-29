@@ -1,0 +1,19 @@
+{
+    "structures": [
+        {
+            "structure": "shokudo:shokudo",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:concentric_rings",
+        "salt": 10247,
+        "frequency": 1,
+        "distance": 0,
+        "spread": 0,
+        "count": 1,
+        "preferred_biomes": [
+            "minecraft:plains"
+        ]
+    }
+}
