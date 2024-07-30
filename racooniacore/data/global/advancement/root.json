@@ -10,7 +10,7 @@
         "announce_to_chat": false
     },
     "criteria": {
-        "trigger": {
+        "requirement": {
             "trigger": "minecraft:tick"
         }
     }
