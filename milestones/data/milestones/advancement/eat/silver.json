@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:cooked_beef"
+            "id": "cooked_beef"
         },
         "title": "Eating Tier2",
         "description": "You have eaten some times",
@@ -13,7 +13,7 @@
     "parent": "milestones:eat/bronze",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

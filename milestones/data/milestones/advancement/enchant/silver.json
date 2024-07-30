@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:bookshelf"
+            "id": "bookshelf"
         },
         "title": "Enchantment Collector",
         "description": "Mix and match your enchantments",
@@ -13,7 +13,7 @@
     "parent": "milestones:enchant/bronze",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

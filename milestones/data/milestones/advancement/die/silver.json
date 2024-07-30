@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:totem_of_undying"
+            "id": "totem_of_undying"
         },
         "title": "Dying Tier2",
         "description": "You have died some times",
@@ -13,7 +13,7 @@
     "parent": "milestones:die/bronze",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

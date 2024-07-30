@@ -4,14 +4,14 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:warped_fungus_on_a_stick",
+          "type": "item",
+          "name": "warped_fungus_on_a_stick",
           "functions": [
             {
-              "function": "minecraft:set_components",
+              "function": "set_components",
               "components": {
-                "minecraft:custom_name": "{\"text\":\"Silver Trading Trophy\",\"color\":\"#D8D8D8\",\"italic\":false}",
-                "minecraft:lore": [
+                "custom_name": "{\"text\":\"Silver Trading Trophy\",\"color\":\"#D8D8D8\",\"italic\":false}",
+                "lore": [
                   "{\"text\":\"A trophy for trading 300 times.\",\"color\":\"white\",\"italic\":false}","{\"text\":\" \"}",
                   "{\"text\":\"Trading Tier2:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"You have traded some times\",\"color\":\"gray\",\"italic\":false}"

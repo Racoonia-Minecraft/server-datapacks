@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:compass"
+            "id": "compass"
         },
         "title": "Tour Guide",
         "description": "Knowing your way around",
@@ -13,7 +13,7 @@
     "parent": "milestones:walk/silver",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

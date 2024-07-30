@@ -4,14 +4,14 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:warped_fungus_on_a_stick",
+          "type": "item",
+          "name": "warped_fungus_on_a_stick",
           "functions": [
             {
-              "function": "minecraft:set_components",
+              "function": "set_components",
               "components": {
-                "minecraft:custom_name": "{\"text\":\"Bronze Active Time Trophy\",\"color\":\"#C15A36\",\"italic\":false}",
-                "minecraft:lore": [
+                "custom_name": "{\"text\":\"Bronze Active Time Trophy\",\"color\":\"#C15A36\",\"italic\":false}",
+                "lore": [
                   "{\"text\":\"A trophy for playing 8 hours.\",\"color\":\"white\",\"italic\":false}",
                   "{\"text\":\" \"}",
                   "{\"text\":\"Play Time Tier1:\",\"color\":\"gray\",\"italic\":false}",

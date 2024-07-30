@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:elytra"
+            "id": "elytra"
         },
         "title": "Icarus",
         "description": "Don't fly to close to the sun",
@@ -13,7 +13,7 @@
     "parent": "milestones:fly/silver",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

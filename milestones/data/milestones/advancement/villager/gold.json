@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:emerald_block"
+            "id": "emerald_block"
         },
         "title": "Wallstreet",
         "description": "Hopefully the market woun't crash",
@@ -13,7 +13,7 @@
     "parent": "milestones:villager/silver",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

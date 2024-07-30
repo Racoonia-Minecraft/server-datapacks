@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:obsidian"
+            "id": "obsidian"
         },
         "title": "Rock Bottom",
         "description": "Solid!",
@@ -13,7 +13,7 @@
     "parent": "milestones:mine/silver",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

@@ -1,20 +1,20 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:warped_fungus_on_a_stick",
+      "id": "warped_fungus_on_a_stick",
       "components": {
         "custom_model_data": 4000200
       }
     },
     "title": "Milestones",
     "description": "Milestones for everything",
-    "background": "minecraft:textures/block/yellow_terracotta.png",
+    "background": "textures/block/yellow_terracotta.png",
     "show_toast": false,
     "announce_to_chat": false
   },
   "criteria": {
     "trigger": {
-      "trigger": "minecraft:tick"
+      "trigger": "tick"
     }
   }
 }

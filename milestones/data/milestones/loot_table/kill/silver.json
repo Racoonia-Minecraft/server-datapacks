@@ -4,21 +4,21 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:crossbow",
+          "type": "item",
+          "name": "crossbow",
           "functions": [
             {
-              "function": "minecraft:set_components",
+              "function": "set_components",
               "components": {
-                "minecraft:custom_name": "{\"text\":\"Silver Killing Trophy\",\"color\":\"#D8D8D8\",\"italic\":false}",
-                "minecraft:lore": [
+                "custom_name": "{\"text\":\"Silver Killing Trophy\",\"color\":\"#D8D8D8\",\"italic\":false}",
+                "lore": [
                   "{\"text\":\"A trophy for killing 500 mobs.\",\"color\":\"white\",\"italic\":false}",
                   "{\"text\":\" \"}",
                   "{\"text\":\"Frenzy:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"You are on a rampage\",\"color\":\"gray\",\"italic\":false}"
                 ],
                 "custom_model_data": 4000208,
-                "minecraft:unbreakable": {
+                "unbreakable": {
                   "show_in_tooltip": false
                 }
               }

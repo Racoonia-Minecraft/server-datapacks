@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:enchanted_book"
+            "id": "enchanted_book"
         },
         "title": "Wizard",
         "description": "Watch out for curses now!",
@@ -13,7 +13,7 @@
     "parent": "milestones:enchant/teaser",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

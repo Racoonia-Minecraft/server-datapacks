@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:crossbow"
+            "id": "crossbow"
         },
         "title": "Frenzy",
         "description": "You are on a rampage",
@@ -13,7 +13,7 @@
     "parent": "milestones:kill/bronze",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

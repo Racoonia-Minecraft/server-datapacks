@@ -3,7 +3,7 @@
         "title": "Milestones",
         "description": "Cool Milestones",
         "icon": {
-            "id": "minecraft:beacon"
+            "id": "beacon"
         },
         "announce_to_chat": false,
         "show_toast": false
@@ -11,7 +11,7 @@
     "parent": "global:racoonia",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:tick"
+            "trigger": "tick"
         }
     }
 }

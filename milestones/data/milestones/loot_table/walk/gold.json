@@ -4,14 +4,14 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:warped_fungus_on_a_stick",
+          "type": "item",
+          "name": "warped_fungus_on_a_stick",
           "functions": [
             {
-              "function": "minecraft:set_components",
+              "function": "set_components",
               "components": {
-                "minecraft:custom_name": "{\"text\":\"Golden Walking Trophy\",\"color\":\"#FDF55F\",\"italic\":false}",
-                "minecraft:lore": [
+                "custom_name": "{\"text\":\"Golden Walking Trophy\",\"color\":\"#FDF55F\",\"italic\":false}",
+                "lore": [
                   "{\"text\":\"A trophy for walking 500,000 blocks.\",\"color\":\"white\",\"italic\":false}",
                   "{\"text\":\" \"}",
                   "{\"text\":\"Tour Guide:\",\"color\":\"gray\",\"italic\":false}",

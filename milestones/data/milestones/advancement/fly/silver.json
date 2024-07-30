@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:firework_rocket"
+            "id": "firework_rocket"
         },
         "title": "Rocket Powerd",
         "description": "Think about the emissions",
@@ -13,7 +13,7 @@
     "parent": "milestones:fly/bronze",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

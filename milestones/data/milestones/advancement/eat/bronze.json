@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:baked_potato"
+            "id": "baked_potato"
         },
         "title": "Cook",
         "description": "Now, don't burn it!",
@@ -13,7 +13,7 @@
     "parent": "milestones:eat/teaser",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

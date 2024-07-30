@@ -3,7 +3,7 @@
         "title": "Devtools",
         "description": "Devtools.",
         "icon": {
-            "id": "minecraft:command_block_minecart"
+            "id": "command_block_minecart"
         },
         "announce_to_chat": false,
         "show_toast": false
@@ -11,7 +11,7 @@
     "parent": "global:racoonia",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:tick"
+            "trigger": "tick"
         }
     }
 }

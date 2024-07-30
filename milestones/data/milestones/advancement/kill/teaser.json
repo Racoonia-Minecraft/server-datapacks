@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:wooden_sword"
+            "id": "wooden_sword"
         },
         "title": "Pentakill",
         "description": "+ 5 Bonus XP",
@@ -13,7 +13,7 @@
     "parent": "milestones:root",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

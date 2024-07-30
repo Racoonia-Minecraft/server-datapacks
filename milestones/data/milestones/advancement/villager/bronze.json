@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:emerald"
+            "id": "emerald"
         },
         "title": "Businessman",
         "description": "Monkey Business",
@@ -13,7 +13,7 @@
     "parent": "milestones:villager/teaser",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

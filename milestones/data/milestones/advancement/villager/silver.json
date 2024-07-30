@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:bell"
+            "id": "bell"
         },
         "title": "Trading Tier2",
         "description": "You have traded some times",
@@ -13,7 +13,7 @@
     "parent": "milestones:villager/bronze",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

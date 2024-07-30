@@ -1,7 +1,7 @@
 {
   "criteria": {
     "requirement": {
-      "trigger": "minecraft:enchanted_item"
+      "trigger": "enchanted_item"
     }
   },
   "rewards": {

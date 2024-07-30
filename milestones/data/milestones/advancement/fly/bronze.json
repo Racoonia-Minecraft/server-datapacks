@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:phantom_membrane"
+            "id": "phantom_membrane"
         },
         "title": "Pilot",
         "description": "Fly with the Phantoms",
@@ -13,7 +13,7 @@
     "parent": "milestones:fly/teaser",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

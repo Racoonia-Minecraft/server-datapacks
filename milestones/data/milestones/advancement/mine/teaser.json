@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:cobblestone"
+            "id": "cobblestone"
         },
         "title": "Power to the pebble!",
         "description": "Continue digging!",
@@ -13,7 +13,7 @@
     "parent": "milestones:root",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {

@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:bread"
+            "id": "bread"
         },
         "title": "German Bread",
         "description": "Yeast, water, flour and salt",
@@ -13,7 +13,7 @@
     "parent": "milestones:root",
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:impossible"
+            "trigger": "impossible"
         }
     },
     "rewards": {
