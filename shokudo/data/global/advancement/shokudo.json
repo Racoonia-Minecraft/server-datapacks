@@ -3,15 +3,15 @@
         "title": "Shokudo",
         "description": "The door from restaurant to another worlds.",
         "icon": {
-            "id": "minecraft:dark_oak_door"
+            "id": "dark_oak_door"
         },
         "announce_to_chat": false,
         "show_toast": false
     },
     "parent": "global:racoonia",
     "criteria": {
-        "trigger": {
-            "trigger": "minecraft:tick"
+        "requirement": {
+            "trigger": "tick"
         }
     }
 }
