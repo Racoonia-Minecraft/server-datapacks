@@ -16,7 +16,7 @@
                   "{\"text\":\" \"}","{\"text\":\"Pice of cake:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"The cake is a lie.\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000221
+                "custom_model_data": 4000221
               }
             }
           ]

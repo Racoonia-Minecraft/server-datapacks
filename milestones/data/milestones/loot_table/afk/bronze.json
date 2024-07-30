@@ -16,7 +16,7 @@
                   "{\"text\":\" \"}","{\"text\":\"Afk Time Tier1:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"You have been afk for a few hours.\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000231
+                "custom_model_data": 4000231
               }
             }
           ]

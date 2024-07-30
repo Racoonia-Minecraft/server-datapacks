@@ -16,7 +16,7 @@
                   "{\"text\":\" \"}","{\"text\":\"Cook:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Now, don't burn it!\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000219
+                "custom_model_data": 4000219
               }
             }
           ]

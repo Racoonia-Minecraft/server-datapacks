@@ -17,7 +17,7 @@
                   "{\"text\":\"Dwarf:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Diggy Diggy Hole!!!\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000202
+                "custom_model_data": 4000202
               }
             }
           ]

@@ -16,7 +16,7 @@
                   "{\"text\":\"Trading Tier2:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"You have traded some times\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000223
+                "custom_model_data": 4000223
               }
             }
           ]

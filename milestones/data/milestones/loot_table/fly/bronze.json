@@ -16,7 +16,7 @@
                   "{\"text\":\" \"}","{\"text\":\"Pilot:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Fly with the Phantoms\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000213
+                "custom_model_data": 4000213
               }
             }
           ]

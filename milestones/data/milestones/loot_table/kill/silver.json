@@ -17,7 +17,7 @@
                   "{\"text\":\"Frenzy:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"You are on a rampage\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000208,
+                "custom_model_data": 4000208,
                 "minecraft:unbreakable": {
                   "show_in_tooltip": false
                 }

@@ -16,7 +16,7 @@
                   "{\"text\":\"Armorer:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Get yourself some protection\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000210
+                "custom_model_data": 4000210
               }
             }
           ]

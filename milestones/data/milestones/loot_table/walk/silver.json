@@ -17,7 +17,7 @@
                   "{\"text\":\"Barrelman:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"No end in sight\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000217
+                "custom_model_data": 4000217
               }
             }
           ]

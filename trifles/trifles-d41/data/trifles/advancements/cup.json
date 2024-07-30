@@ -3,7 +3,7 @@
     "icon": {
       "id": "minecraft:glass_bottle",
       "components": {
-        "minecraft:custom_model_data": 4000104,
+        "custom_model_data": 4000104,
         "minecraft:custom_data": {
           "opendata": {
             "no_override": 1

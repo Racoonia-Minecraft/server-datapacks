@@ -3,7 +3,7 @@
     "icon": {
       "id": "minecraft:potion",
       "components": {
-        "minecraft:custom_model_data": 4000106,
+        "custom_model_data": 4000106,
         "minecraft:custom_data": {
           "opendata": {
             "no_override": 1

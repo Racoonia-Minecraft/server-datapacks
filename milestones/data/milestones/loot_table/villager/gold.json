@@ -17,7 +17,7 @@
                   "{\"text\":\"Wallstreet:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Hopefully the market won't crash\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000224
+                "custom_model_data": 4000224
               }
             }
           ]

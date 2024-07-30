@@ -17,7 +17,7 @@
                   "{\"text\":\"Do you have a life?:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Please log off...\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000230
+                "custom_model_data": 4000230
               }
             }
           ]

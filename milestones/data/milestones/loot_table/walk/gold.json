@@ -17,7 +17,7 @@
                   "{\"text\":\"Tour Guide:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Knowing your way around\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000218
+                "custom_model_data": 4000218
               }
             }
           ]

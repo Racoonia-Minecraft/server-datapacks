@@ -17,7 +17,7 @@
                   "{\"text\":\"Rocket Powerd:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Think about the emissions\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000214
+                "custom_model_data": 4000214
               }
             }
           ]

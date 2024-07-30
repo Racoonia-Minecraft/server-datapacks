@@ -17,7 +17,7 @@
                   "{\"text\":\"Cartographer:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Look at the places you've been!\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000216
+                "custom_model_data": 4000216
               }
             }
           ]

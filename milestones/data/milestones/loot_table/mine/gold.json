@@ -17,7 +17,7 @@
                   "{\"text\":\"Rock Bottom:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Solid!\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000203
+                "custom_model_data": 4000203
               }
             }
           ]

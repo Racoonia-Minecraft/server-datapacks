@@ -17,7 +17,7 @@
                   "{\"text\":\"Archmage:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Next step: Enchanting people\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000227
+                "custom_model_data": 4000227
               }
             }
           ]

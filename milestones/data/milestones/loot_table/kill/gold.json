@@ -17,7 +17,7 @@
                   "{\"text\":\"Apex Predator:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"I find it's best to wait... for the perfect kill\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000209
+                "custom_model_data": 4000209
               }
             }
           ]
