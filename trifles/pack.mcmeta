@@ -1,21 +1,10 @@
 {
     "pack": {
-        "pack_format": 16,
+        "pack_format": 48,
         "description": "Cool gadgets in minecraft.",
         "supported_formats": {
-            "min_inclusive": 16,
-            "max_inclusive": 41
+            "min_inclusive": 48,
+            "max_inclusive": 48
         }
-    },
-    "overlays": {
-        "entries": [
-            {
-                "formats": {
-                    "min_inclusive": 27,
-                    "max_inclusive": 41
-                },
-                "directory": "trifles-d41"
-            }
-        ]
     }
 }

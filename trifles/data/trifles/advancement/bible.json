@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "id": "warped_fungus_on_a_stick",
+      "components": {
+        "custom_model_data": 4000109,
+        "custom_data": {
+          "opendata": {
+            "no_override": 1
+          }
+        }
+      }
+    },
+    "title": "\"God's\" Words",
+    "description": "Craft a bible",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "trifles:pocketcat",
+  "criteria": {
+    "requirement": {
+      "trigger": "inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "warped_fungus_on_a_stick"
+            ],
+            "components": {
+              "custom_data": {
+                "trifles": {
+                  "type": "bible"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

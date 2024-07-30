@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "potion",
+      "components": {
+        "custom_model_data": 4000108,
+        "custom_data": {
+          "opendata": {
+            "no_override": 1
+          }
+        },
+        "potion_contents": {
+          "custom_color": 16777215
+        }
+      }
+    },
+    "title": "Espresso yourself",
+    "description": "Gotta go fast!",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "trifles:cup",
+  "criteria": {
+    "requirement": {
+      "trigger": "consume_item",
+      "conditions": {
+        "item": {
+          "components": {
+            "custom_data": {
+              "trifles": {
+                "type": "espresso"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

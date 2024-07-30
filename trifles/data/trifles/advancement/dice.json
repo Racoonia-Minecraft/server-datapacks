@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "id": "ghast_spawn_egg",
+      "components": {
+        "custom_model_data": 4000103,
+        "custom_data": {
+          "opendata": {
+            "no_override": 1
+          }
+        }
+      }
+    },
+    "title": "Alea iacta est",
+    "description": "Craft a Dice",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "racoonia:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghast_spawn_egg"
+            ],
+            "components": {
+              "custom_data": {
+                "trifles": {
+                  "type": "dice"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
