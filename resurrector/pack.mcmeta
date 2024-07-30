@@ -1,21 +1,10 @@
 {
     "pack": {
-        "pack_format": 18,
-        "description": "Resurrector",
+        "pack_format": 48,
+        "description": "Prevents the player and specific animals from falling into the void.",
         "supported_formats": {
-            "min_inclusive": 18,
-            "max_inclusive": 41
+            "min_inclusive": 48,
+            "max_inclusive": 48
         }
-    },
-    "overlays": {
-        "entries": [
-            {
-                "formats": {
-                    "min_inclusive": 27,
-                    "max_inclusive": 41
-                },
-                "directory": "resurrector-d41"
-            }
-        ]
     }
 }
