@@ -3,9 +3,9 @@
         "title": "Racoonia",
         "description": "",
         "icon": {
-            "id": "minecraft:player_head",
+            "id": "player_head",
             "components": {
-                "minecraft:profile": {
+                "profile": {
                     "name": "Racooder"
                 }
             }
@@ -16,7 +16,7 @@
     "parent": "global:root",
     "criteria": {
         "requirement": {
-            "trigger": "minecraft:tick"
+            "trigger": "tick"
         }
     }
 }

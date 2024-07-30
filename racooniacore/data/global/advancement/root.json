@@ -3,15 +3,15 @@
         "title": "Installed Datapacks",
         "description": "",
         "icon": {
-            "id": "minecraft:knowledge_book"
+            "id": "knowledge_book"
         },
-        "background": "minecraft:textures/block/gray_concrete.png",
+        "background": "textures/block/gray_concrete.png",
         "show_toast": false,
         "announce_to_chat": false
     },
     "criteria": {
         "requirement": {
-            "trigger": "minecraft:tick"
+            "trigger": "tick"
         }
     }
 }
