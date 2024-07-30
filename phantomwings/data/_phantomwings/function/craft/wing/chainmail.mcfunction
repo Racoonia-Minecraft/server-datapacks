@@ -1,0 +1,2 @@
+data merge entity @s {PickupDelay:20,Motion:[0.0,0.3,0.0],Item:{id:"elytra",count:1,components:{custom_name:'{"text":"Winged Chainmail Chestplate","color":"aqua","italic":false}',lore:['{"text":"Chainmail Chestplate with a Elytra","color":"dark_purple"}','{"text":"attached","color":"dark_purple"}'],custom_model_data:4000004,"minecraft:custom_data":{phantomwings:{is_wing:1b,type:"chainmail"}},attribute_modifiers:[{id:"armor",type:"generic.armor",amount:5,operation:"add_value",slot:"chest"}]}}}
+function _phantomwings:craft/shared

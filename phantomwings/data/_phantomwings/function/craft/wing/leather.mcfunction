@@ -1,0 +1,2 @@
+data merge entity @s {PickupDelay:20,Motion:[0.0,0.3,0.0],Item:{id:"elytra",count:1,components:{custom_name:'{"text":"Winged Leather Chestplate","color":"aqua","italic":false}',lore:['{"text":"Leather Chestplate with a Elytra","color":"dark_purple"}','{"text":"attached","color":"dark_purple"}'],custom_model_data:4000006,"minecraft:custom_data":{phantomwings:{is_wing:1b,type:"leather"}},attribute_modifiers:[{id:"armor",type:"generic.armor",amount:3,operation:"add_value",slot:"chest"}]}}}
+function _phantomwings:craft/shared
