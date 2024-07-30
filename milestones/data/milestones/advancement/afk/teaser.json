@@ -3,12 +3,7 @@
         "icon": {
             "id": "minecraft:warped_fungus_on_a_stick",
             "components": {
-                "minecraft:custom_model_data": 4000235,
-                "minecraft:custom_data": {
-                    "opendata": {
-                        "no_override": 1
-                    }
-                }
+                "minecraft:custom_model_data": 4000235
             }
         },
         "title": "Be right back",

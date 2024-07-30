@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "minecraft:warped_fungus_on_a_stick",
-      "nbt": "{CustomModelData:4000101,opendata:{no_override:1b}}"
+      "nbt": "{CustomModelData:4000101}"
     },
     "title": "Fluffy Companion",
     "description": "Craft a cat in a bag",

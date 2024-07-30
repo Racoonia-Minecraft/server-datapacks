@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "minecraft:warped_fungus_on_a_stick",
-      "nbt": "{CustomModelData:4000102,opendata:{no_override:1b}}"
+      "nbt": "{CustomModelData:4000102}"
     },
     "title": "Infinite Stew!!!",
     "description": "Craft a Mega Stew",

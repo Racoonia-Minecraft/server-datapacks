@@ -18,11 +18,6 @@
                   "{\"text\":\"Be the hunter, not he hunted\",\"color\":\"gray\",\"italic\":false}"
                 ],
                 "minecraft:custom_model_data": 4000207,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                },
                 "minecraft:unbreakable": {
                   "show_in_tooltip": false
                 }

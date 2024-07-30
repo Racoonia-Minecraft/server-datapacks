@@ -18,11 +18,6 @@
                   "{\"text\":\"You are on a rampage\",\"color\":\"gray\",\"italic\":false}"
                 ],
                 "minecraft:custom_model_data": 4000208,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                },
                 "minecraft:unbreakable": {
                   "show_in_tooltip": false
                 }

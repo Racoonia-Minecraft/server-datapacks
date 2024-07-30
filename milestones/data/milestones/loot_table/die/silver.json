@@ -16,12 +16,7 @@
                   "{\"text\":\" \"}","{\"text\":\"Dieing Tier2:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"You have died some times\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000211,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                }
+                "minecraft:custom_model_data": 4000211
               }
             }
           ]

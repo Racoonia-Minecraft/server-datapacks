@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "minecraft:warped_fungus_on_a_stick",
-      "nbt": "{CustomModelData:4000109,opendata:{no_override:1b}}"
+      "nbt": "{CustomModelData:4000109}"
     },
     "title": "\"God's\" Words",
     "description": "Craft a bible",

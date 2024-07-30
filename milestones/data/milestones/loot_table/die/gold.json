@@ -16,12 +16,7 @@
                   "{\"text\":\"You have 5 minuts:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Go find your items!\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000212,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                }
+                "minecraft:custom_model_data": 4000212
               }
             }
           ]

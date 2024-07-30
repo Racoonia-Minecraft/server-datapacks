@@ -17,12 +17,7 @@
                   "{\"text\":\"Geologist:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Rock and Stone\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000201,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                }
+                "minecraft:custom_model_data": 4000201
               }
             }
           ]

@@ -17,12 +17,7 @@
                   "{\"text\":\"Wizard:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Watch out for curses now!\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000225,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                }
+                "minecraft:custom_model_data": 4000225
               }
             }
           ]

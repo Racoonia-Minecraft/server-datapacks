@@ -16,12 +16,7 @@
                   "{\"text\":\" \"}","{\"text\":\"Aft Time Tier3:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"I'll be back in 5 minuts, I swear\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000233,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                }
+                "minecraft:custom_model_data": 4000233
               }
             }
           ]

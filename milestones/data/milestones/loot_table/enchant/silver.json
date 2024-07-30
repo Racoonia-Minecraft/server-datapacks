@@ -17,12 +17,7 @@
                   "{\"text\":\"Enchantment Collector:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Mix and match your enchantments\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000226,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                }
+                "minecraft:custom_model_data": 4000226
               }
             }
           ]

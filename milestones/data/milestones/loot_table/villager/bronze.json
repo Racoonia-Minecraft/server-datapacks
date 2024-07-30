@@ -17,12 +17,7 @@
                   "{\"text\":\"Businessman:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"Monkey Business\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000222,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                }
+                "minecraft:custom_model_data": 4000222
               }
             }
           ]

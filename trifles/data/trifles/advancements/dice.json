@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "minecraft:ghast_spawn_egg",
-      "nbt": "{CustomModelData:4000103,opendata:{no_override:1b}}"
+      "nbt": "{CustomModelData:4000103}"
     },
     "title": "Alea iacta est",
     "description": "Craft a Dice",

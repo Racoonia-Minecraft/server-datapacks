@@ -17,12 +17,7 @@
                   "{\"text\":\"Play Time Tier2:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"You have played for some hours\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4000229,
-                "minecraft:custom_data": {
-                  "opendata": {
-                    "no_override": 1
-                  }
-                }
+                "minecraft:custom_model_data": 4000229
               }
             }
           ]
